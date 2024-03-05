@@ -24,16 +24,23 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  name: "Samir Sen",
+  title: "AI ML enthusiast",
+  email: "samirsen66@gmail.com",
+  gitHub: "NotAScratch",
+  instagram: "samirsen66",
+  linkedIn: "Samir Sen",
   medium: "",
-  twitter: "microsoft",
+  twitter: "samirsen66",
   youTube: "Code",
 };
+// How do i run the app
+// npm start
+// npm run build
+// npm run test
+// npm run eject
+// npm run build
+// npm run build
 
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -49,5 +56,6 @@ const App = () => {
     </div>
   );
 };
+//
 
 export default App;
